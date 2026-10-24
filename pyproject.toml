@@ -1,0 +1,7 @@
+[project]
+name = "genpark-jwt-token-verifier-and-jwks-rotation-cache-skill"
+version = "1.0.0"
+description = "HMAC JWT token validator, claim expiration auditor, and JWKS public key rotation cache"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
